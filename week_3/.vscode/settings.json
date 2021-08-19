@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "HEQ1.C": "cpp",
+        "HEQ2.C": "cpp",
+        "HEQ3.C": "cpp",
+        "HEQ4.C": "cpp",
+        "HEQ5.C": "cpp",
+        "LEQ1.C": "cpp",
+        "LEQ2.C": "cpp",
+        "LEQ3.C": "cpp",
+        "LEQ4.C": "cpp",
+        "LEQ5.C": "cpp",
+        "LEQ6.C": "cpp",
+        "LEQ7.C": "cpp",
+        "LEQ8.C": "cpp",
+        "REQ1.C": "cpp",
+        "REQ2.C": "cpp",
+        "REQ3.C": "cpp",
+        "REQ5.C": "cpp",
+        "REQ6.C": "cpp"
+    }
+}
