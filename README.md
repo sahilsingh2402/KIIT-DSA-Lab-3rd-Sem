@@ -1,4 +1,4 @@
-# <center>KIIT-DSA-Lab-3rd-Sem</center>
+# KIIT-DSA-Lab-3rd-Sem
 
 ## Lab Assignment-1
 
