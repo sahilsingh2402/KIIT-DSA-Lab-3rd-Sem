@@ -28,15 +28,30 @@
 
 ## Lab Assignment-3
 
+- [x] QUES 1: Given an unsorted dynamic array arr and two numbers x and y, find the minimum distance between x and y in arr. The array might also contain duplicates. You may assume that both x and y are different and present in arr. 
+- [x] QUES 2: WAP to arrange the elements of a dynamic array such that all even numbers are followed by all odd numbers. 
+- [x] QUES 3: Write a program to replace every element in the dynamic array with the next greatest element present in the same array. 
+- [x] QUES 4: WAP to sort rows of a dynamic matrix having m rows and n columns in ascending and columns in descending order. 
+- [x] QUES 5: WAP to find out the k th smallest and k th largest element stored in a dynamic array of n integers, where 0<k<n. 
+- [x] QUES 6: WAP to find the largest number and counts the occurrence of the largest number in a dynamic array of n integers using a single loop. 
+- [x] QUES 7: You are given an array of 0 s and 1 s in random order. Segregate 0s on left side and 1s on right side of the array. Traverse array only once. 
+- [x] QUES 8: WAP to swap all the elements in the 1st column with all the corresponding elements in the last column, and 2nd column with the second last column and 3rd with 3rd last etc. of a 2-D dynamic array. Display the matrix. 
+- [x] QUES 9: WAP to store n employee’s data such as employee name, gender, designation, department, basic pay. Calculate the gross pay of each employees as follows: Gross pay = basic pay + HRA + DA; HRA=25% of basic and DA=75% of basic. 
+- [x] QUES 10: WAP to add two distances (in km-meter) by passing structure to a function. 
+
+---
+
+## Lab Assignment-4
+
 - [x] 
 - [x]
-- [x]
+- [x] 
 - [x]
 - [x] 
 - [x]
-- [x]
+- [x] 
 - [x]
 - [x] 
 - [x]
-- [x]
+- [x] 
 - [x]
