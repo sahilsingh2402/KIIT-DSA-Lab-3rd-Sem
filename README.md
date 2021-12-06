@@ -43,22 +43,43 @@
 
 ## Lab Assignment-4
 
+- [x] QUES 1: Write a menu driven program to perform the following operations in a single linked list by using suitable user defined functions for each case.
+- Traverse the list.
+- Check if the list is empty. [This function will be called to check underflow condition during the delete operation]
+- Insert a node after a given data item
+- Insert a node before a given data item
+- Delete a node after a given data item
+- Delete a node before a given data item
+- Insert a node at the certain position (at beginning/end/any position).
+- Delete a node at the certain position (at beginning/end/any position).
+- Delete a node for the given key.
+- Search for an element in the linked list.
+- Sort the elements of the linked list
+- Print the elements of the linked list in the reverse order.
+- Reverse the nodes of the linked list.
+- Print n th node from the last of a linked list.
+- Delete the duplicate elements in a linked list. 
+
+---
+
+## Lab Assignment-5
+
 - [x] QUES 1: Write a menu driven program to perform the following operations in a single linked list by using suitable user defined functions for each case. 
-- 1. Write a program to search an element in a simple linked list, if found delete that node and insert that node at beginning. Otherwise display an appropriate message.
-- 2. Write a program to find the middle node in a single linked list (without counting the number of nodes.)
-- 3. Write a program to reverse the first m elements of a linked list of n nodes.
-- 4. Write a program to check whether a given linked list is sorted or not.
-- 5. Given a linked list which is sorted, write a program to insert an element into the linked list in sorted way.
-- 6. Write a program to find the intersections elements of two linked list and store them in a third linked list.
-- 7. Write a program to modify the linked list such that all even numbers appear before all the odd numbers in the modified linked list.
-- 8. Write a program to check whether a singly linked list is a palindrome or not.
-- 9. A linked list is said to contain a cycle if any node is visited more than once while traversing the list. Write a program to detect a cycle in a linked list.
-- 10. Write a program to reverse only even position nodes in a singly linked list.
-- 11. Write a program to swap kth node from beginning with kth node from end in a Linked List
-- 12. Given a linked list, write a function to reverse every k nodes. (where k is an input to the function). If a linked list is given as 12->23->45->89->15->67->28->98->NULL and k=3 then output will be 45->23->12->67->15->89->98->28->NULL.
-- 13. Given a singly linked list, rotate the linked list counter-clockwise by k nodes. Where k is a given positive integer. For example, if the given linked list is 10->20->30->40->50->60 and k is 4, the list should be modified to 50->60->10->20->30->40. Assume that k is smaller than the count of nodes in linked list. 
+- Write a program to search an element in a simple linked list, if found delete that node and insert that node at beginning. Otherwise display an appropriate message.
+- Write a program to find the middle node in a single linked list (without counting the number of nodes.)
+- Write a program to reverse the first m elements of a linked list of n nodes.
+- Write a program to check whether a given linked list is sorted or not.
+- Given a linked list which is sorted, write a program to insert an element into the linked list in sorted way.
+- Write a program to find the intersections elements of two linked list and store them in a third linked list.
+- Write a program to modify the linked list such that all even numbers appear before all the odd numbers in the modified linked list.
+- Write a program to check whether a singly linked list is a palindrome or not.
+- A linked list is said to contain a cycle if any node is visited more than once while traversing the list. Write a program to detect a cycle in a linked list.
+- Write a program to reverse only even position nodes in a singly linked list.
+- Write a program to swap kth node from beginning with kth node from end in a Linked List
+- Given a linked list, write a function to reverse every k nodes. (where k is an input to the function). If a linked list is given as 12->23->45->89->15->67->28->98->NULL and k=3 then output will be 45->23->12->67->15->89->98->28->NULL.
+- Given a singly linked list, rotate the linked list counter-clockwise by k nodes. Where k is a given positive integer. For example, if the given linked list is 10->20->30->40->50->60 and k is 4, the list should be modified to 50->60->10->20->30->40. Assume that k is smaller than the count of nodes in linked list. 
 - [x] QUES 2: Write a program to merge two sorted linked list.
-- [x] QUES 3: [C] Write a program to represent a polynomial using linked list. Write a function to add two polynomials. 
+- [x] QUES 3: Write a program to represent a polynomial using linked list. Write a function to add two polynomials. 
 - [x] QUES 4: Write a program to represent a sparse matrix in three tuple format using an array and perform addition. 
 
 ---
