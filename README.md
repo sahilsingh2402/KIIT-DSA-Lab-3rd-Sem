@@ -147,6 +147,36 @@
 
 ## Lab Assignment-9
 
+- [x] QUES 1: Write a menu driven program to perform the following operations in a QUEUE ADT (Using an Array) by using suitable user defined functions for each case.
+- Inserting an element into the queue [Define Isfull() function to check overflow]
+- Deleting an element from the queue [Define Isempty() function to check underflow]
+- Display the elements of queue
+- Copy the content of one queue into another (Without using any additional data structure)
+- Reverse the elements of the queue (Without using any additional data structure) 
+- [x] QUES 2: Write a menu driven program to perform the following operations in a QUEUE ADT (Using linked list) by using suitable user defined functions for each case.
+- Inserting an element into the queue
+- Deleting an element from the queue [Define Isempty() function to check underflow]
+- Display the element of the queue 
+
+---
+
+## Lab Assignment-10
+
+- [x] QUES 1: Write a menu driven program to perform the following operations in a CIRCULAR QUEUE ADT (Using an Array) by using suitable user defined functions for each case.
+- Inserting an element into the queue [Define Isfull() function to check overflow]
+- Deleting an element from the queue [Define Isempty() function to check underflow]
+- Display the elements of queue. 
+- [x] QUES 2: Write a program to implement QUEUE ADT (FIFO) using STACK ADT (LIFO). 
+- [x] QUES 3: Write a program to implement STACK ADT (LIFO) using QUEUE ADT (FIFO). 
+- [x] QUES 4: Write a program to implement a priority queue using an array.
+- [x] QUES 5: Write a program to implement a priority queue using linked list. 
+
+
+---
+
+## Lab Assignment-11
+
+- [x] 
 - [x] 
 - [x]
 - [x] 
