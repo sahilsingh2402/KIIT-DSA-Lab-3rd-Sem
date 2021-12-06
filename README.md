@@ -171,13 +171,50 @@
 - [x] QUES 4: Write a program to implement a priority queue using an array.
 - [x] QUES 5: Write a program to implement a priority queue using linked list. 
 
-
 ---
 
 ## Lab Assignment-11
 
+- [x] QUES 1: Write a menu driven program to perform the following operations on a Binary Search Tree (BST).
+- Insert a node (process of creation)
+- Check whether the tree constructed is an BST or not.
+- Traverse the tree in Preorder
+- Traverse the tree in Preorder (Non-recursive)
+- Traverse the tree in Post-order
+- Traverse the tree in In-order
+- Traverse the tree in Level order
+- Search whether a given node is present/not.
+- Delete a node with degree-0, 1 & 2. 
+
+---
+
+## Lab Assignment-12
+
+- [x] QUES 1: Write a menu driven program to perform the following operations on a Binary Search Tree (BST).
+- Insert a node (process of creation)
+- Find the height of the tree
+- Check whether the tree is a fully complete binary tree or not.
+- Count the number of nodes with degree 0, 1 and 2. 
+- [x] QUES 2: Write a program to construct an expression tree for a given postfix expression. 
+
+---
+
+## Lab Assignment-13
+
+- [x] QUES 1: Write a menu driven program to create a one way inorder threaded binary tree and traverse the tree in inorder without using stack or recursion. 
+- [x] QUES 2: Write a program to create an expression tree for a given postfix expression and traverse the tree to check the correctness. 
+- [x] QUES 3: Write a program to create an expression tree for a given prefix expression and traverse the tree to check the correctness.
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
 - [x] 
 - [x] 
 - [x]
 - [x] 
-- [x]
+- [x] 
