@@ -43,7 +43,29 @@
 
 ## Lab Assignment-4
 
-- [x] 
+- [x] QUES 1: [1] Write a menu driven program to perform the following operations in a single
+linked list by using suitable user defined functions for each case.
+- Traverse the list.
+- Check if the list is empty. [This function will be called to check underflow condition
+during the delete operation]
+- Insert a node after a given data item
+- Insert a node before a given data item
+- Delete a node after a given data item
+- Delete a node before a given data item
+- Insert a node at the certain position (at beginning/end/any position).
+- Delete a node at the certain position (at beginning/end/any position).
+- Delete a node for the given key.
+- Search for an element in the linked list.
+- Sort the elements of the linked list
+- Print the elements of the linked list in the reverse order.
+- Reverse the nodes of the linked list.
+- Print n th node from the last of a linked list.
+- Delete the duplicate elements in a linked list. 
+
+---
+
+## Lab Assignment-4
+
 - [x]
 - [x] 
 - [x]
