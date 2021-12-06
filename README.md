@@ -204,17 +204,20 @@
 - [x] QUES 1: Write a menu driven program to create a one way inorder threaded binary tree and traverse the tree in inorder without using stack or recursion. 
 - [x] QUES 2: Write a program to create an expression tree for a given postfix expression and traverse the tree to check the correctness. 
 - [x] QUES 3: Write a program to create an expression tree for a given prefix expression and traverse the tree to check the correctness.
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x]
-- [x] 
-- [x] 
+- [x] QUES 4: Write a menu driven program to implement the following sorting algorithms:
+- Insertion Sort
+- Bubble Sort
+- Selection Sort
+- Merge Sort
+- Quick Sort 
+
+---
+
+## Lab Assignment-14
+
+- [x] QUES 1: Write a menu driven program to create a GRAPH ADT and traverse it in breadthfirst-search and depth-first-search using adjacency matrix.
+- [x] QUES 2: Write a menu driven program to create a GRAPH ADT and traverse it in breadth-firstsearch and depth-first-search using linked list.
+- [x] QUES 3: Write a menu driven program to implement Linear Probing in hashing. 
+- [x] QUES 4: Write a menu driven program to implement chaining in hashing. 
+
+---
