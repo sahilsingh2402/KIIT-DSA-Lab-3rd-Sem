@@ -130,13 +130,23 @@
 
 ## Lab Assignment-8
 
-- [x] 
-- [x] 
-- [x]
-- [x] 
-- [x]
-- [x] 
-- [x]
+- [x] QUES 1: WAP to implement a stack which will support three additional operations in addition to push and pop.
+- peekLowestElement - return the lowest element in the stack without removing it from the stack
+- peekHighestElement - return the highest element in the stack without removing it from the stack
+- peekMiddleElement - return the (size/2+1) th element in the stack without removing it from the stack. 
+- [x] QUES 2: Write a program to evaluate a postfix expression using stack. 
+- [x] QUES 3: Write a program to evaluate a prefix expression using stack. 
+- [x] QUES 4: Write a program to convert an infix expression into its equivalent postfix notation. 
+- [x] QUES 5: Write a program to convert an infix expression into its equivalent prefix notation. 
+- [x] QUES 6: Two brackets are considered to be a matched pair if an opening bracket (i.e., (, [, or {) occurs to the left of a closing bracket (i.e.,),], or}) of the exact same type. There are three types of matched pairs of brackets: [], {}, and (). A matching pair of brackets is not balanced if the set of brackets it encloses are not matched. Write a program to determine whether the input sequence of brackets is balanced or not. If a string is balanced, it prints YES on a new line; otherwise, print NO on a new line.
+- Example: Input: {[()]} and Output: YES
+- Input: {[(])} and Output: NO 
+- [x] QUES 7: Write a program exhibiting Tower of Hanoi (recursive). 
+
+---
+
+## Lab Assignment-9
+
 - [x] 
 - [x]
 - [x] 
