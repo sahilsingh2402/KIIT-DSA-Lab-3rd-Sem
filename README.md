@@ -101,7 +101,7 @@
 - Traverse the list
 - Add a node a first node
 - Delete the first node 
-- [x] QUES 3: [C] Write a menu driven program to perform the following operations in a header linked list by using suitable user defined functions for each case. The head node keeps the count of the total number of nodes in the list. The data node keeps the student information: Name, Roll No, CGPA, Address_City, Branch.
+- [x] QUES 3: Write a menu driven program to perform the following operations in a header linked list by using suitable user defined functions for each case. The head node keeps the count of the total number of nodes in the list. The data node keeps the student information: Name, Roll No, CGPA, Address_City, Branch.
 - Create
 - Display student information
 - Display the total number of nodes (in O(1) time)
@@ -114,10 +114,23 @@
 
 ## Lab Assignment-7
 
+- [x] QUES 1: Write a menu driven program to perform the following operations in a STACK ADT (Using an Array) by using suitable user defined functions for each case.
+- PUSH an element into the stack [Define Isfull() function to check overflow]
+- POP an element from the stack [Define Isempty() function to check underflow]
+- Display a stack
+- Copy the content of one stack into another (Without using any additional data structure)
+- Sort the elements of the stack (Without using any additional data structure)
+- [x] QUES 2: Write a menu driven program to perform the following operations in a STACK ADT (Using linked list) by using suitable user defined functions for each case.
+- PUSH an element into the stack
+- POP an element from the stack [Define Isempty() function to check underflow]
+- Display a stack
+- [x] QUES 3: Write a program to implement two numbers of stacks in one array to minimize overflow in any one of the stack. 
+
+---
+
+## Lab Assignment-8
+
 - [x] 
-- [x]
-- [x] 
-- [x]
 - [x] 
 - [x]
 - [x] 
