@@ -84,12 +84,47 @@
 
 ---
 
-## Lab Assignment-5
+## Lab Assignment-6
 
+- [x] QUES 1: Write a menu driven program to perform the following operations in a double linked list by using suitable user defined functions for each case.
+- Create the list
+- Traverse the list in forward direction
+- Traverse the list in backward direction
+- Add a node after a given data item
+- Add a node before a given data item
+- Delete a node at a given position
+- Add a node a first node
+- Delete the first node
+- Reverse the content of the linked list by traversing each node only once.
+- [x] QUES 2: Write a menu driven program to perform the following operations in a circular linked list by using suitable user defined functions for each case.
+- Create the list
+- Traverse the list
+- Add a node a first node
+- Delete the first node 
+- [x] QUES 3: [C] Write a menu driven program to perform the following operations in a header linked list by using suitable user defined functions for each case. The head node keeps the count of the total number of nodes in the list. The data node keeps the student information: Name, Roll No, CGPA, Address_City, Branch.
+- Create
+- Display student information
+- Display the total number of nodes (in O(1) time)
+- Display the students’ details belonging to a particular branch
+- Display the students’ details securing &gt; 7.5 CGPA and belonging to a given branch. 
+- [x] QUES 4: Write a program to represent a sparse matrix in three tuple format using linked list and write addition function to perform addition. 
+- [x] QUES 5: Write a program to store a polynomial in linked list and write multiplication function to perform multiplication of two polynomials. 
+
+---
+
+## Lab Assignment-7
+
+- [x] 
 - [x]
+- [x] 
 - [x]
+- [x] 
 - [x]
+- [x] 
 - [x]
+- [x] 
 - [x]
+- [x] 
 - [x]
+- [x] 
 - [x]
